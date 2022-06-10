@@ -5,13 +5,19 @@ There are two parts to the development of this game.
 First, the visual peice of the game must be developed. Visual peice includes the players, ball, paddles and environment. 
  This is further broken down into these classes: Pong Game main class, Game Frame, Game Panel, Paddle, Ball, and Score Keeper. 
  The second part is developing the functionality of the game. 
+ 
+
  Visual Base:
+ 
  - player 1 and player 2 are representated by rectangular paddles. 
  - The ball is drawn to be a white circle.
  - There is a boundary representing a Pong table 
  - There is a text element showing the score of the game
  - There is a line dividing the game panel in the middle representing a seperation between player 1 and player 2 table sides. 
- Functional Elements: 
+
+
+ Functional Elements:
+ 
  - Player objects move only on the y-axis. 
  - The ball is able to move in both the x and y-axis. 
  - The ball object should change its direction on the x-axis to the opposite if it overlaps with a player object.
