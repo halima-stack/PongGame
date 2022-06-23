@@ -31,5 +31,7 @@ An element of difficult does exist with this game. When a player hits the ball w
 Enjoy the game and may the odds be in your favor. 
 
 
-Demo: https://user-images.githubusercontent.com/82426331/175427481-4e9b1850-0dff-4bd1-bb47-e34caa32b663.mp4
+Demo: 
+
+https://user-images.githubusercontent.com/82426331/175427481-4e9b1850-0dff-4bd1-bb47-e34caa32b663.mp4
 
